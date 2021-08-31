@@ -1,0 +1,72 @@
+.login{
+	width: 450px;
+	height:570px;
+	border: 1px solid grey;
+	border-radius: 10px;
+	background: #DDDDDD;
+
+}
+.input1{
+	width: 200px;
+	height:30px;
+	margin-left: 3px;
+	border-radius: 5px;
+}
+.input2{
+	width: 200px;
+	height:30px;
+	margin-left: 4px;
+	border-radius: 5px;
+}
+.input3{
+	width: 413px;
+	height:30px;
+	margin-left: 3px;
+	border-radius: 5px;
+}
+.input4{
+	width: 413px;
+	height:30px;
+	margin-left: 3px;
+	border-radius: 5px;
+}
+select{
+	width: 130px;
+	height:30px;
+	margin-left: 3px;
+}
+.select1{
+	width: 137px;
+	height:30px;
+}
+.select2{
+	width: 137px;
+	height:30px;
+}
+button{
+	width: 137px;
+	height:30px;
+	border:none;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	background-color:#00CC00
+}
+.input5{
+	width: 137px;
+	height:30px;
+	border:none;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	background-color:#00CC00
+}
+h2{
+font-size: 25px;
+margin-left: 5px;
+margin-top: 5px;
+}
+.p1{
+	margin-left: 5px;
+}
+img{
+	margin-left: 15px;
+}
